@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "exstreme.playserver.pro",
+    "ip": "extreme.playserver.pro",
     "port": 34448,
     "version": "1.21.1"
   },
